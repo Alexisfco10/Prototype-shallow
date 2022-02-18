@@ -1,0 +1,15 @@
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\bin\Debug\net6.0\Prototype shallow.exe
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\bin\Debug\net6.0\Prototype shallow.deps.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\bin\Debug\net6.0\Prototype shallow.runtimeconfig.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\bin\Debug\net6.0\Prototype shallow.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\bin\Debug\net6.0\ref\Prototype shallow.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\bin\Debug\net6.0\Prototype shallow.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.csproj.AssemblyReference.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.AssemblyInfoInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.AssemblyInfo.cs
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\ref\Prototype shallow.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Prototype shallow\Prototype shallow\obj\Debug\net6.0\Prototype shallow.genruntimeconfig.cache
